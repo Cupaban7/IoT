@@ -1,7 +1,7 @@
 # Sistema IoT de Notificación de Anomalías Ambientales (Semana 13)
 
 **Autores:** Juan Diego Cupaban Mejía & Andrea Vanessa Fonseca Gómez  
-**Institución:** Unidades Tecnológicas de Santander (UTS)  
+**Institución:** Universitaria Tecnológica de Santander (UTS)  
 **Asignatura:** Internet de las Cosas (IoT)
 
 ## 1. Descripción del Proyecto
